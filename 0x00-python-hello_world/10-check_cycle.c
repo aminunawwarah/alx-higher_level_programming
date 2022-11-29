@@ -1,9 +1,9 @@
 #include "lists.h"
 
 /**
- * check_cycle - for cycle
+ * check_cycle - function for cycle
  * @list: points to the top of list
- * Return: 0 if no cycle found otherwise 1
+ * Return: 0 if no cycle found otherwise return 1
  */
 
 int check_cycle(listint_t *list)
