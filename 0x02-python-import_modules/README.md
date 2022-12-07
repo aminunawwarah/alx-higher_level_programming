@@ -1,5 +1,3 @@
-0x02. Python - import & modules
-===========================
-This directory contains .py files.
-Modules allow you to use pre-existing code in programs. Instead of re-inventing the 
-wheel, using premade codes in modules helps to save time while writing programs.
+-------Import Modules----------
+Modules allow us to use existing code in multiple files without re-writing
+the same code. This saves time and reduces program errors.
