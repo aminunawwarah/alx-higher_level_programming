@@ -1,0 +1,3 @@
+0x13. JavaScript - Objects, Scopes and Closures
+===============================================
+This project is about objects in JavaScript and scopes of variables. Scope defines the namespace of a variable, i.e. where a variable is usable. Variables defined outside a function are called global variables and they can be assessed by all functions. On the other hand, variables defined inside a function are usable only within their functions and they are called local variables.
